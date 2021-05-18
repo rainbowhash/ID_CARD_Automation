@@ -14,3 +14,8 @@ Future we can experiment by modifying the layers and running training on more da
 <h2>Face Detection and extraction</h2>
 I will be using pre-trained Haar Cascade model from OpenCV and Python to detect and extract faces from the ID image.<br>
 
+
+<h2>TO run:</h2>
+'''
+Run main.py --image [image_path]
+'''

@@ -18,3 +18,5 @@ def capture_face(image):
 
     status = cv2.imwrite('faces_detected.jpg', image)
     print("[INFO] Image faces_detected.jpg written to filesystem: ", status)
+
+    return

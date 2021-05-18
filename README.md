@@ -16,6 +16,5 @@ I will be using pre-trained Haar Cascade model from OpenCV and Python to detect 
 
 
 <h2>TO run:</h2>
-```
-Run main.py --image [image_path]
-```
+Run 
+```main.py --image [image_path]```

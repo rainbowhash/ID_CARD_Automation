@@ -1,4 +1,4 @@
-# ID Card data capture automation
+# ID Card data capture automation using machine learning
 
 <h2>Two phase of processing:</h2><br>
 

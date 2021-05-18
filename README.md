@@ -1,9 +1,9 @@
 # ID Card data capture automation
 
-Two phase of processing:
+<h2>Two phase of processing:</h2><br>
 
-Text Detection and extraction
-Face detection and extraction
+Text Detection and extraction<br>
+Face detection and extraction<br>
 
 <h2>Text Detection and extraction</h2>
 ->Character Region Awareness for Text Detection a 2019 based paper that is able to localize the text in a image and is able to also map the region of intrests to its associated texts.<br>
